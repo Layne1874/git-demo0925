@@ -5,6 +5,4 @@ demo 1943
 demo 
 
 1943 1236tx
-E45: 'readonly' option is set (add ! to override)eE45: 'readonly' option is set (add ! to override)et
 
-:`t
